@@ -2,7 +2,8 @@
 
 [:point_right: Click here to see on browser](https://restaurant-appointment.netlify.app/)
 
-![appointment]()
+![restaurant appointment](https://github.com/kaplanh/React-Restaurant-Appoinment-App/assets/101884444/c9b040e8-917d-469a-9414-0cc958ff3c4c)
+
 
 ---
 
