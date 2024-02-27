@@ -8,7 +8,7 @@ const Home = () => {
 const [appointment, setAppointment] = useState(appointmentData)
   return (
     <main className="text-center mt-2">
-      <h1 className="display-5 text-danger">MAT_DEV RESTAURANT</h1>
+      <h1 className="display-5 text-light">MAT_DEV RESTAURANT</h1>
       <Doctors apps= {appointment} setApps={setAppointment}/>
       <AppointmentList   apps= {appointment} setApps={setAppointment}/>
     </main>
