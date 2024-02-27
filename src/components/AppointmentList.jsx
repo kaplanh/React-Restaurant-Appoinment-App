@@ -23,7 +23,7 @@ const AppointmentList = ({ apps, setApps }) => {
             >
                 Appointment List
             </h3>
-            {apps.length < 1 && <img src="./img/appointment.jpg" width="70%" />}
+            {apps.length < 1 && <img src="./img/appointment.jpg" width="70%" alt="calender"/>}
 
             {apps.map(({ id, guestName, consulted, restaurants, day }) => (
                 <div
